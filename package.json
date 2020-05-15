@@ -1,0 +1,24 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "examples and activities from the react course",
+  "main": "index.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build": "babel src -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flazzarin/react-course.git"
+  },
+  "author": "flazzarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flazzarin/react-course/issues"
+  },
+  "homepage": "https://github.com/flazzarin/react-course#readme"
+}
